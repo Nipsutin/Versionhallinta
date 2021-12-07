@@ -4,3 +4,4 @@
 - Neljä trukkilavallista olutta
 - Kuusi lonkeroa
 - Savukerasia
+- Pussi aakkosia
