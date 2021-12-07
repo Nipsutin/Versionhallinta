@@ -1,4 +1,4 @@
 - Porkkanoita
 - Nakkeja
 - Sipulia
-- Trukkilavallinen olutta
+- Neljä trukkilavallista olutta
