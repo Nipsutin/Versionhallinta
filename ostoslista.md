@@ -3,3 +3,4 @@
 - Sipulia
 - Neljä trukkilavallista olutta
 - Kuusi lonkeroa
+- Savukerasia
