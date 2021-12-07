@@ -5,3 +5,4 @@
 - Kuusi lonkeroa
 - Savukerasia
 - Pussi aakkosia
+- Koiranpentu
